@@ -1,5 +1,15 @@
 # Automatically categorize questions on Stack Overflow
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)  
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  
+![NLP](https://img.shields.io/badge/NLP-Text%20Processing-lightgrey?logo=readthedocs)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn)  
+![spaCy](https://img.shields.io/badge/spaCy-NLP-green?logo=spacy)  
+![NLTK](https://img.shields.io/badge/NLTK-Text%20Mining-yellow?logo=nltk)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Embeddings-orange?logo=tensorflow)  
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
 ## Contexte
 
 Stack Overflow est une plateforme incontournable de questions-réponses autour du développement informatique.
