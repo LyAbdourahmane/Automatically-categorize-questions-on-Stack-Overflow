@@ -1,6 +1,6 @@
 # Automatically categorize questions on Stack Overflow
 
-## 📌 Contexte
+## Contexte
 
 Stack Overflow est une plateforme incontournable de questions-réponses autour du développement informatique.
 Cependant, lors de la création d’une question, les utilisateurs renseignent parfois des **tags** inappropriés ou incomplets, ce qui nuit à la recherche et à la lisibilité du contenu.
